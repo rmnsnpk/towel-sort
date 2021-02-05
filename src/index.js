@@ -1,5 +1,5 @@
 module.exports = function towelSort(matrix) {
-  if (matrix == undefined || ) {
+  if (matrix == undefined || matrix[0]== 0) {
       return [];
   }
   
